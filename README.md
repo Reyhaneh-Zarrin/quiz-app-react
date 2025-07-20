@@ -90,6 +90,3 @@ This project is open source and available under the [MIT License](https://openso
     
 - Thanks to [Maximilian Schwarzmüller](https://github.com/maxschwarzmueller) for the great course and project ideas.
     
-=======
-# quiz-app-react
->>>>>>> 8e568ef74bf00347220af7da19d539557ff74840
