@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # React Quiz App
 
 An interactive and timed **multiple-choice quiz** application built with **React**.  
@@ -56,11 +54,9 @@ Then open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ## 🖼️ Screenshot
 
+<img width="1093" height="813" alt="image" src="https://github.com/user-attachments/assets/9ec08f41-c4e4-4d6b-8956-bc9b977c0efc" />
+<img width="1004" height="704" alt="image" src="https://github.com/user-attachments/assets/97647696-44ff-4f0d-8f72-4e19207df81b" />
 
-> You can insert a screenshot like this once you take one:
-
-![[Pasted image 20250720101910.png]]
-![[Pasted image 20250720102336.png]]
 ---
 
 ## 📁 Project Structure
